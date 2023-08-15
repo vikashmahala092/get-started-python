@@ -1,3 +1,4 @@
+# importing required libraries for the app.
 from cloudant import Cloudant
 from flask import Flask, render_template, request, jsonify
 import atexit
